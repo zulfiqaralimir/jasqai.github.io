@@ -1,9 +1,12 @@
 ---
 layout: default
+title: "Contact"
 ---
 
+<div class="page-banner">
+  <h1>Contact</h1>
+</div>
 
-# Contact
 
 For questions, submissions, or editorial communication, please use:
 
