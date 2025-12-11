@@ -1,9 +1,12 @@
 ---
 layout: default
+title: "Policies"
 ---
 
+<div class="page-banner">
+  <h1>Policies</h1>
+</div>
 
-# Journal Policies
 
 ## Ethical Standards
 JASQAI follows COPE (Committee on Publication Ethics) guidelines.
