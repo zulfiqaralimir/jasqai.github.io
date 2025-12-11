@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="page-banner">
+  <h1>{{ page.title }}</h1>
+</div>
+
+<div class="article-meta">
+  <p><strong>Authors:</strong>
+    {% for author in page.authors %}
+      {{ author.name }} ({{ author.affiliation }}){% if author.orcid %}, ORCID: {{ author.orcid }}{% endif %}{% if forloop.last == false %}; {% endif %}
+    {% endfor %}
+  </p>
+
+  {% if page.doi %}
+  <p><strong>DOI:</strong> <a href="{{ page.doi }}">{{ page.doi }}</a></p>
+  {% endif %}
+
+  {% if page.pdf %}
+  <p><strong>PDF:</strong> <a href="{{ page.pdf }}" target="_blank">Download PDF</a></p>
+  {% endif %}
+
+  <p><strong>Published in:</strong> {{ page.issue }}</p>
+
+  <p><strong>Keywords:</strong>
+    {{ page.keywords | join: ", " }}
+  </p>
+
+  <hr>
+</div>
+
+<div class="article-body">
+  {{ content }}
+</div>
