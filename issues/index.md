@@ -1,9 +1,11 @@
 ---
 layout: default
+title: "Issues"
 ---
 
-
-# Issues
+<div class="page-banner">
+  <h1>Issues</h1>
+</div>
 
 Welcome to the Issues section of **JASQAI – Journal of Agentic Synergy & Quantum AI**.
 
