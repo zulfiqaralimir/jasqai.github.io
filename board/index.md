@@ -3,7 +3,7 @@
 ## Editor-in-Chief
 **Dr. Ahsen Abbas**  
 Founding Editor, JASQAI  
-Agentic AI • FinTech • Quantum AI • Mathematical Modeling  
+AI • FinTech • Quantum AI • Mathematical & Statistical Modeling  
 
 ---
 
