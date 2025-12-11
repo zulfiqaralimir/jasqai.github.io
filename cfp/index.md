@@ -1,39 +1,87 @@
 ---
 layout: default
-title: "Call for Papers"
+title: "Call for Papers — JASQAI"
 ---
 
 <div class="page-banner">
-  <h1>Call for Papers</h1>
+  <h1>Call for Papers (CFP)</h1>
 </div>
 
+# Call for Papers  
+**JASQAI – Journal of Agentic Synergy & Quantum AI**  
+Volume 1, Issue 1 (Q1 2025)
 
-**JASQAI – Journal of Agentic Synergy & Quantum AI** invites original research papers, surveys, and short communications in the following areas:
+We invite high-quality research submissions for the inaugural issue of **JASQAI**, an international peer-reviewed open-access journal covering:
 
-### Focus Areas
 - Agentic AI Systems  
-- Quantum Machine Learning  
-- Financial Engineering & Algorithmic Trading  
-- Multi-Agent Systems  
-- Mathematical Optimization & Statistics  
-- Computational Finance  
-- Hybrid AI (Agentic + Quantum + Classical ML)  
+- Quantum Artificial Intelligence  
+- FinTech, Algorithmic Trading, Digital Finance  
+- Mathematical & Statistical Modeling  
+- Computational Algorithms  
+- Hybrid AI–Quant Systems  
 
-### Important Dates
-- **Submission window:** Open  
-- **First Issue:** Q1 2025  
-- **Publication Type:** Rolling acceptance, quarterly release  
+---
 
-### Submission Format
-Authors should submit:
-- PDF manuscript  
-- Abstract (150–250 words)  
-- Keywords  
-- Author information  
-- Code or supplementary material (optional)
+# 📅 Important Dates
 
-### How to Submit
-Submissions will be handled via:
-**GitHub → Issues → “Submit Manuscript” template** (coming soon)
+| Activity | Deadline |
+|---------|----------|
+| **Paper Submission Opens** | **January 1, 2025** |
+| **Submission Deadline** | **March 10, 2025** |
+| **Review Notification** | **March 25, 2025** |
+| **Camera-Ready Submission** | **March 30, 2025** |
+| **Publication** | **March 31, 2025** |
 
-For questions: **editor@jasqai.org**
+---
+
+# 🧠 Topics of Interest
+
+We invite original contributions in (but not limited to):
+
+## Agentic AI
+- Multi-agent workflows  
+- Planning–Execution–Verification models  
+- Autonomous reasoning agents  
+- AI orchestration frameworks  
+
+## Quantum AI
+- Quantum machine learning  
+- Variational quantum circuits  
+- Quantum algorithms for AI  
+- Hybrid quantum–classical systems  
+
+## FinTech & Quantitative Finance
+- Algorithmic trading strategies  
+- Portfolio optimization  
+- Risk modeling & stochastic systems  
+- High-frequency data analysis  
+
+## Algorithms, Mathematics & Statistics
+- Optimization algorithms  
+- Numerical methods  
+- Probabilistic modeling  
+- Statistical learning theory  
+
+---
+
+# 📝 Submission Guidelines
+
+- Submissions must be **original** and not under review elsewhere  
+- Manuscripts must be submitted in **PDF format**  
+- Recommended length: **6–20 pages**  
+- All submissions undergo **double-blind peer review**  
+- Include necessary figures, tables, references  
+
+---
+
+# 📤 Submit Your Paper
+
+Click below to submit your manuscript:
+
+👉 **[Submit Manuscript](https://github.com/zulfiqaralimir/jasqai.github.io/issues/new?template=submit-manuscript.md)**
+
+---
+
+# 📬 Contact  
+Email inquiries: **editor@jasqai.org**
+
