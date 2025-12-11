@@ -1,9 +1,12 @@
 ---
 layout: default
+title: "Call for Papers"
 ---
 
+<div class="page-banner">
+  <h1>Call for Papers</h1>
+</div>
 
-# Call for Papers (CFP)
 
 **JASQAI – Journal of Agentic Synergy & Quantum AI** invites original research papers, surveys, and short communications in the following areas:
 
