@@ -1,10 +1,12 @@
 ---
 layout: default
+title: "For Authors"
 ---
 
+<div class="page-banner">
+  <h1>For Authors</h1>
+</div>
 
-
-# For Authors
 
 Thank you for your interest in publishing with **JASQAI**.
 
