@@ -48,3 +48,18 @@ h1, h2, h3 {
   margin-top: 40px;
   font-size: 14px;
 }
+
+/* Page Title Banner for Inner Pages */
+.page-banner {
+  background: linear-gradient(120deg, #003d6b, #005a9e);
+  color: white;
+  padding: 40px 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.page-banner h1 {
+  margin: 0;
+  font-size: 32px;
+}
+
