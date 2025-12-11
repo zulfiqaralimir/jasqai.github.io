@@ -1,6 +1,9 @@
 ---
+---
 layout: article
+collection: articles
 title: "A Framework for Agentic Synergy in Quantum-AI Systems"
+
 authors:
   - name: "Zulfiqar Ali Mir"
     affiliation: "Mir Global AI Lab"
