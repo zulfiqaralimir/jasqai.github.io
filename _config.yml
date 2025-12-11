@@ -1,5 +1,20 @@
 title: "JASQAI – Journal of Agentic Synergy & Quantum AI"
-description: "A journal for Agentic AI, Quantum AI, FinTech, Algorithms, Mathematics & Statistics."
+description: "A peer-reviewed academic journal covering Agentic AI, Quantum AI, FinTech, Algorithms, Mathematics & Statistics."
+url: "https://zulfiqaralimir.github.io"
+baseurl: "/jasqai.github.io"
+
 markdown: kramdown
-theme: minima
-plugins: []
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
+author:
+  name: "JASQAI Editorial Office"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
