@@ -3,7 +3,10 @@ layout: default
 title: "Editorial Board"
 ---
 
-# Editorial Board
+<div class="page-banner">
+  <h1>Editorial Board</h1>
+</div>
+
 
 Welcome to the Editorial Board of **JASQAI – Journal of Agentic Synergy & Quantum AI**.  
 Our board consists of researchers and professionals in Agentic AI, Quantum Computing, FinTech, Algorithms, Mathematics and Statistics.
