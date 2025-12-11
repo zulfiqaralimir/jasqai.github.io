@@ -31,5 +31,17 @@ layout: default
 </div>
 
 <div class="article-body">
+  <hr>
+
+<div class="article-navigation">
+  {% if page.previous %}
+    <a href="{{ page.previous.url | relative_url }}">&larr; Previous: {{ page.previous.title }}</a>
+  {% endif %}
+  
+  {% if page.next %}
+    <a style="float:right" href="{{ page.next.url | relative_url }}">Next: {{ page.next.title }} &rarr;</a>
+  {% endif %}
+</div>
+
   {{ content }}
 </div>
