@@ -103,3 +103,15 @@ section {
   margin-bottom: 40px;
 }
 
+.article-meta {
+  background: #f7f7f7;
+  padding: 20px;
+  border-radius: 6px;
+  margin-bottom: 30px;
+  border: 1px solid #ddd;
+}
+
+.article-body h1, .article-body h2 {
+  margin-top: 30px;
+  color: #003d6b;
+}
